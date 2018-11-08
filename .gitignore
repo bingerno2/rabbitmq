@@ -1,0 +1,10 @@
+/target/
+/*/LOG_HOME_IS_UNDEFINED
+/*/.settings
+/*/target
+/*/*.project
+/*/*.classpath
+**/.idea/
+/*/test-output
+**/*.iml
+
